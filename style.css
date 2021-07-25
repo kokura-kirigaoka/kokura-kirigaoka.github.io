@@ -1,0 +1,19 @@
+h1{
+    color:rgb(238, 238, 133);
+    background-color: rgb(212, 212, 240);
+}
+body {
+        background-color:rgb(231, 203, 166);
+}
+li{
+    list-style:none;
+    padding:20px 30px 20px 30px;
+    color: rgb(249, 250, 250);
+ }
+ul{
+        display:flex;
+}
+.header{
+            background-color: rgb(221, 226, 179);
+            height: 70px;
+}
