@@ -191,7 +191,7 @@ aside p {
 /* MENU
 ------------------------------- */
 #menu {
-    background-image: url(../images/menu-bg.jpg);
+    background-image: url("https://i.ibb.co/QCNs045/main-bg.jpg");
     min-height: 100vh;
 }
 .menu-content {
