@@ -89,7 +89,7 @@ iframe {
 /* HOME
 ------------------------------- */
 #home {
-    background-image: url(../images/main-bg.jpg);
+    background-image: url("https://i.ibb.co/QCNs045/main-bg.jpg");
     min-height: 100vh;
 }
 #home .page-title {
@@ -191,7 +191,7 @@ aside p {
 /* MENU
 ------------------------------- */
 #menu {
-    background-image: url("https://i.ibb.co/QCNs045/main-bg.jpg");
+    background-image: url(../images/menu-bg.jpg);
     min-height: 100vh;
 }
 .menu-content {
